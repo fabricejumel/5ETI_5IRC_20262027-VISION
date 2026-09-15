@@ -3,11 +3,10 @@
 La vision par ordinateur pour un robot est cruciale pour permettre à la machine d’interagir intelligemment avec son environnement. Les besoins en vision varient selon les types de robots (robots de service, robots industriels, drones, véhicules autonomes, etc.) et leurs applications spécifiques (navigation, manipulation d’objets, surveillance, etc.). Voici une longue liste des principaux besoins en vision pour un robot :
 
 Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en python d'outils/librairies permettant de répondre à ces besoins , mettre les liens et une illustration pertinente en fonctionnement. Indiquer la taille de la solution , les dépendances 
- logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
+ logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements /puissance de calcul (CPU,GPU). 
 
  > [!IMPORTANT]
-> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  2,5,7,8,9,11,13,14. On ne se limitera à utiliser une  IA pour generer le tableau  sans vérification des sites de references à ajouter dans votre tableau).  Vous développerez à part du tableau a minima 3 solutions . L'idéal est pour ces solutions d'avoir tester s avec un exemple qui n'est pas celui de base associé à la solution. On captera  ces solutions en terme d'adaptations ,de qualité de fonctionnement , d'usage de ressource CPU/GPU/mémoire. On essayera d'expliciter la complexité quand cela a du sens ou d'évaluer les temps de réponses
-
+> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  2,5,7,8,9,11,13,14. On ne se limitera à utiliser une  IA pour generer le tableau  sans vérification des sites de references à ajouter dans votre tableau).  Vous développerez à part du tableau a minima 3 solutions . L'idéal est pour ces solutions d'avoir tester s avec un exemple qui n'est pas celui de base associé à la solution. 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
    - **Détection de personnes** : Reconnaître les êtres humains dans les scènes pour des interactions ou la sécurité.
