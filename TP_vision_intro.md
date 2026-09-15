@@ -6,7 +6,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
  logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
  > [!IMPORTANT]
-> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  2,5,7,8,9,11,13,14. On ne se limitera à utiliser une  IA pour generer le tableau  sans vérification des sites de references à ajouter dans votre tableau).  Vous develloperez à part du tableau a minima 3 solutions . L'idéal est pour ces solutions d'avoir tester s avec un exemple qui n'est pas celui de base associé à la solution.
+> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  2,5,7,8,9,11,13,14. On ne se limitera à utiliser une  IA pour generer le tableau  sans vérification des sites de references à ajouter dans votre tableau).  Vous développerez à part du tableau a minima 3 solutions . L'idéal est pour ces solutions d'avoir tester s avec un exemple qui n'est pas celui de base associé à la solution. On captera  ces solutions en terme d'adaptations ,de qualité de fonctionnement , d'usage de ressource CPU/GPU/mémoire. On essayera d'expliciter la complexité quand cela a du sens ou d'évaluer les temps de réponses
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
