@@ -5,19 +5,19 @@
 
 
 > [!IMPORTANT]
-> Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome.
+> Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome.
 
 > [!CAUTION]
-> Le rendu v1  doit être finalisé pour le vendredi 3 octobre 23H00, un rendu v2 pour le vendredi 10 octobre 23H00. La note final du rendu sera une moyenne entre la V1 et la V2 . 
+> Le rendu v1  doit être finalisé pour le vendredi 2 octobre 23H00, un rendu v2 pour le jeudi 15 octobre 23H00. La note final du rendu sera une moyenne pondéré entre la V1 (3/4) et la V2 (1/4) . 
 
 
 Il est recommandé de travailler dans un environnement virtuel
 
 ``` bash
 # Creation initiale  du virtual env
-python -m venv venv_vision2025
+python -m venv venv_vision2026
 # Activation du virtual env, a refaire a chaque ouverture d'un terminal
-source venv_vision2054/bin/activate
+source venv_vision2026/bin/activate
 #installation des requirements (à faire une fois avec le virtual env activé)
 pip install -r requirements.txt
 ````
