@@ -29,7 +29,11 @@ pip install -r requirements.txt
 
 Les actvités
 
+
+
 TP Transverse [TP Intro ](TP_vision_intro.md) à faire en parralèle  des autres actitivtés
+
+TP Surprise  [Surprise}
 
 TP 1 [TP cascade de haar](TP_cascade_de_haar.md)
 
