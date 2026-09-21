@@ -8,7 +8,7 @@
 > Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome.
 
 > [!CAUTION]
-> Le rendu v1  doit être finalisé pour le vendredi 2 octobre 23H00, un rendu v2 pour le jeudi 15 octobre 23H00. La note final du rendu sera une moyenne pondéré entre la V1 (3/4) et la V2 (1/4) . 
+> Le rendu v1  doit être finalisé pour le vendredi 2 octobre 23H00, un rendu v2 pour le jeudi 15 octobre 23H00. La note final du rendu sera une moyenne pondéré entre la V1 (3/4) et la V2 (1/4) (à rediscuter) . 
 
 
 Il est recommandé de travailler dans un environnement virtuel
