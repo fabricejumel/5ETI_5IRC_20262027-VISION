@@ -51,6 +51,21 @@ Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par ob
 
 4. **Question 3.3** : Repartir du code de la question 2 et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran.
 
+> [!WARNING]
+> **Problèmes d'inférence avec OpenCV DNN ?**
+> Si le chargement du modèle ou l'exécution via `cv2.dnn` s'avère trop capricieux (incompatibilités d'opérateurs ONNX, post-traitement manuel instable, crashs CUDA), basculez directement sur la bibliothèque officielle `ultralytics`.
+>
+> ```bash
+> pip install ultralytics
+> ```
+> 
+> ```python
+> from ultralytics import YOLO
+>
+> model = YOLO("ton_modele.pt")
+> results = model.predict(source=frame, conf=0.5)
+> ```
+
 ---
 
 ## Bibliographie complémentaire
