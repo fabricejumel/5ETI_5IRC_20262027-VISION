@@ -84,7 +84,8 @@ La détection de visage est l'un des exemples de cascades de Haar implémentés 
 - ou lié à des projets open-source divers (exemple: [https://github.com/mrnugget/opencv-haar-classifier-training/tree/master/trained_classifiers](https://github.com/mrnugget/opencv-haar-classifier-training/tree/master/trained_classifiers)).
 
 
-#### 3) Dépendances logicielles et matérielles, estimation des temps de réponses en fonctions des puissance de calcul
+#### 3) Dépendances logicielles et matérielles, 
+Définir les dépendances logicielles et matérielles , estimation des temps de réponses en fonctions des puissance de calcul
 
 #### 4) POUR INFORMATION UNIQUEMENT, Création d'un classifieur (les cascades de haar ne sont plus utilisé de nos jours et la face d'apprentissage se révélait capricieuse)
 
