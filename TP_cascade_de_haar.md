@@ -2,8 +2,12 @@
 # TP Cascade de Haar
 
 > [!CAUTION]
-> Les cascades de HAAR ne sont plus trop utilisés donc plus simple a mettre en ouevre avec un ancien opencv , par exemple pip install opencv-python==4.10.0.84 . 
-
+> Les cascades de HAAR ne sont plus très utilisées aujourd'hui. Pour les exemples historiques, il peut être plus simple d'utiliser une ancienne version d'OpenCV :
+>
+> ```python
+> pip install opencv-python==4.10.0.84
+> ```
+>
 **Prérequis**: connaissances à minima du traitement d'images. Bases d'algorithmie. Connaissances à minima de python. Manipulation des concepts de ROS.
 
 Prise en main d'une librairie d'analyse d'images (OpenCV) et d'une cascade de Haar associée à la détection de visage.
