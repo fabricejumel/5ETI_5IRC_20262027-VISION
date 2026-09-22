@@ -2,11 +2,7 @@
 # TP Cascade de Haar
 
 > [!CAUTION]
-> Les cascades de HAAR ne sont plus très utilisées aujourd'hui. Pour les exemples historiques, il peut être plus simple d'utiliser une ancienne version d'OpenCV qui contient les cascades. Dans le repertoire cascade_haar j'ai rajouter la cascade face.xml pour utiliser plus facilement avec opencv 5 :
->
-> ```python
-> pip install opencv-python==4.10.0.84
-> ```
+> Les cascades de HAAR ne sont plus très utilisées aujourd'hui. Pour les exemples historiques, il peut être plus simple d'utiliser une ancienne version d'OpenCV qui contient les cascades (ex 4.10.0.84) . Dans le repertoire cascade_haar j'ai rajouter la cascade face.xml pour utiliser plus facilement avec opencv 5 :
 >
 **Prérequis**: connaissances à minima du traitement d'images. Bases d'algorithmie. Connaissances à minima de python. Manipulation des concepts de ROS.
 
