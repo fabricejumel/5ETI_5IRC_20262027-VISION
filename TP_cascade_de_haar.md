@@ -1,7 +1,8 @@
 
 # TP Cascade de Haar
 
-
+> [!CAUTION]
+> Les cascades de HAAR ne sont plus trop utilisés donc plus simple a mettre en ouevre avec un ancien opencv , par exemple pip install opencv-python==4.10.0.84 . 
 
 **Prérequis**: connaissances à minima du traitement d'images. Bases d'algorithmie. Connaissances à minima de python. Manipulation des concepts de ROS.
 
